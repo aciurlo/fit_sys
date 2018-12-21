@@ -1,0 +1,22 @@
+chains_G3_sysRV
+1   ! model 1=Newton, 2=Newton + redshift, 3=Full GR, 4=advance or periastron
+2   ! typelikelihood
+1   ! nstars
+G3.points
+G3.rv
+0   ! n priors
+0 4. 4.    ! 1 GM
+0 8. 8.    ! 2 R0
+0 0. 0.    ! 4 x0
+0 0. 0.    ! 5 y0
+0 0. 0.    ! 6 vx0
+0 0. 0.    ! 7 vy0
+0 0. 0.    ! 8 vz0
+1 20. 1000.    ! 9 P
+1 2000. 2200.  ! 10 T0
+1 0.01 0.95    ! 11 e
+1 0. 180.      ! 12 inc
+1 -180. 180.   ! 13 w
+1 -180. 180.   ! 14 O
+0 0. 0.        ! 15 add error on astro
+1 0. 100.     ! 16 add error on RV

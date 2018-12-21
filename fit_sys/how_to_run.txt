@@ -1,0 +1,19 @@
+Compile code:
+- copy to /UCLA/efit5/<folder>
+- cd <folder>
+- make
+- sudo cp fit mod /opt/local/bin/
+
+Parallel:
+	- export OMP_NUM_THREADS=2
+
+clear chains folder!
+
+into fit_sys/:
+	- fit ./fits/input_G3 (_sys)
+	- mod ./fits/input_G3 1000 1
+     OR - mod ./fits/input_G3 1000 6 2006. 2018. (#point model ; date start/stop)
+for orbit plot:
+mod ./fits/input_G3_sys 100 6 1900. 2140.
+mod ./fits/input_G4_sys 100 6 
+mod ./fits/input_G5_sys 100 6 1400. 2600.

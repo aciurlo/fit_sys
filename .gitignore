@@ -1,0 +1,161 @@
+fit_sys/3D_plot.png
+fit_sys/3D_plot_front_view.png
+fit_sys/S0-2.points
+fit_sys/S0-2.rv
+fit_sys/X7.points
+fit_sys/X7.rv
+fit_sys/chains_X7_sys/X7_cor.points
+fit_sys/chains_X7_sys/X7_cor.rv
+fit_sys/chains_X7_sys/X7_mod.points
+fit_sys/chains_X7_sys/X7_mod.rv
+fit_sys/chains_X7_sys/X7_res.points
+fit_sys/chains_X7_sys/X7_res.rv
+fit_sys/chains_X7_sys/efit-.txt
+fit_sys/chains_X7_sys/efit-ev.dat
+fit_sys/chains_X7_sys/efit-inf.dat
+fit_sys/chains_X7_sys/efit-int.dat
+fit_sys/chains_X7_sys/efit-live.points
+fit_sys/chains_X7_sys/efit-phys_live.points
+fit_sys/chains_X7_sys/efit-post_equal_weights.dat
+fit_sys/chains_X7_sys/efit-resume.dat
+fit_sys/chains_X7_sys/efit-stats.dat
+fit_sys/chains_X7_sys/efit-summary.txt
+fit_sys/figs/.ipynb_checkpoints/Figures_G3-checkpoint.ipynb
+fit_sys/figs/X7_sys_add_err.png
+fit_sys/figs/X7_sys_cor.png
+fit_sys/figs/X7_sys_histos.png
+fit_sys/figs/X7_sys_orbit.png
+fit_sys/figs/X7_sys_res_RV.png
+fit_sys/figs/X7_sys_res_astro.png
+fit_sys/fits/backup/input_G3_sys copy
+fit_sys/fits/backup/input_G4_sys copy
+fit_sys/fits/backup/input_G5_sys copy
+fit_sys/fits/backup/input_G6_sys copy
+fit_sys/fits/backup/input_X7_sys copy
+fit_sys/no2/G3 copy.points
+fit_sys/no2/G3 copy.rv
+fit_sys/no2/G4 copy.points
+fit_sys/no2/G4 copy.rv
+fit_sys/no2/G5 copy.points
+fit_sys/no2/G5 copy.rv
+fit_sys/no2/chains_G3 copy/G3_mod.points
+fit_sys/no2/chains_G3 copy/G3_mod.rv
+fit_sys/no2/chains_G3 copy/G3_res.points
+fit_sys/no2/chains_G3 copy/G3_res.rv
+fit_sys/no2/chains_G3 copy/efit-.txt
+fit_sys/no2/chains_G3 copy/efit-ev.dat
+fit_sys/no2/chains_G3 copy/efit-inf.dat
+fit_sys/no2/chains_G3 copy/efit-int.dat
+fit_sys/no2/chains_G3 copy/efit-live.points
+fit_sys/no2/chains_G3 copy/efit-phys_live.points
+fit_sys/no2/chains_G3 copy/efit-post_equal_weights.dat
+fit_sys/no2/chains_G3 copy/efit-resume.dat
+fit_sys/no2/chains_G3 copy/efit-stats.dat
+fit_sys/no2/chains_G3 copy/efit-summary.txt
+fit_sys/no2/chains_G3_sys copy/G3_mod.points
+fit_sys/no2/chains_G3_sys copy/G3_mod.rv
+fit_sys/no2/chains_G3_sys copy/G3_res.points
+fit_sys/no2/chains_G3_sys copy/G3_res.rv
+fit_sys/no2/chains_G3_sys copy/efit-.txt
+fit_sys/no2/chains_G3_sys copy/efit-ev.dat
+fit_sys/no2/chains_G3_sys copy/efit-inf.dat
+fit_sys/no2/chains_G3_sys copy/efit-int.dat
+fit_sys/no2/chains_G3_sys copy/efit-live.points
+fit_sys/no2/chains_G3_sys copy/efit-phys_live.points
+fit_sys/no2/chains_G3_sys copy/efit-post_equal_weights.dat
+fit_sys/no2/chains_G3_sys copy/efit-resume.dat
+fit_sys/no2/chains_G3_sys copy/efit-stats.dat
+fit_sys/no2/chains_G3_sys copy/efit-summary.txt
+fit_sys/no2/chains_G4 copy/G4_mod.points
+fit_sys/no2/chains_G4 copy/G4_mod.rv
+fit_sys/no2/chains_G4 copy/G4_res.points
+fit_sys/no2/chains_G4 copy/G4_res.rv
+fit_sys/no2/chains_G4 copy/efit-.txt
+fit_sys/no2/chains_G4 copy/efit-ev.dat
+fit_sys/no2/chains_G4 copy/efit-inf.dat
+fit_sys/no2/chains_G4 copy/efit-int.dat
+fit_sys/no2/chains_G4 copy/efit-live.points
+fit_sys/no2/chains_G4 copy/efit-phys_live.points
+fit_sys/no2/chains_G4 copy/efit-post_equal_weights.dat
+fit_sys/no2/chains_G4 copy/efit-resume.dat
+fit_sys/no2/chains_G4 copy/efit-stats.dat
+fit_sys/no2/chains_G4 copy/efit-summary.txt
+fit_sys/no2/chains_G4_sys copy/G4_mod.points
+fit_sys/no2/chains_G4_sys copy/G4_mod.rv
+fit_sys/no2/chains_G4_sys copy/G4_res.points
+fit_sys/no2/chains_G4_sys copy/G4_res.rv
+fit_sys/no2/chains_G4_sys copy/efit-.txt
+fit_sys/no2/chains_G4_sys copy/efit-ev.dat
+fit_sys/no2/chains_G4_sys copy/efit-inf.dat
+fit_sys/no2/chains_G4_sys copy/efit-int.dat
+fit_sys/no2/chains_G4_sys copy/efit-live.points
+fit_sys/no2/chains_G4_sys copy/efit-phys_live.points
+fit_sys/no2/chains_G4_sys copy/efit-post_equal_weights.dat
+fit_sys/no2/chains_G4_sys copy/efit-resume.dat
+fit_sys/no2/chains_G4_sys copy/efit-stats.dat
+fit_sys/no2/chains_G4_sys copy/efit-summary.txt
+fit_sys/no2/chains_G5 copy/G5_mod.points
+fit_sys/no2/chains_G5 copy/G5_mod.rv
+fit_sys/no2/chains_G5 copy/G5_res.points
+fit_sys/no2/chains_G5 copy/G5_res.rv
+fit_sys/no2/chains_G5 copy/efit-.txt
+fit_sys/no2/chains_G5 copy/efit-ev.dat
+fit_sys/no2/chains_G5 copy/efit-inf.dat
+fit_sys/no2/chains_G5 copy/efit-int.dat
+fit_sys/no2/chains_G5 copy/efit-live.points
+fit_sys/no2/chains_G5 copy/efit-phys_live.points
+fit_sys/no2/chains_G5 copy/efit-post_equal_weights.dat
+fit_sys/no2/chains_G5 copy/efit-resume.dat
+fit_sys/no2/chains_G5 copy/efit-stats.dat
+fit_sys/no2/chains_G5 copy/efit-summary.txt
+fit_sys/no2/chains_G5_sys copy/G5_mod.points
+fit_sys/no2/chains_G5_sys copy/G5_mod.rv
+fit_sys/no2/chains_G5_sys copy/G5_res.points
+fit_sys/no2/chains_G5_sys copy/G5_res.rv
+fit_sys/no2/chains_G5_sys copy/efit-.txt
+fit_sys/no2/chains_G5_sys copy/efit-ev.dat
+fit_sys/no2/chains_G5_sys copy/efit-inf.dat
+fit_sys/no2/chains_G5_sys copy/efit-int.dat
+fit_sys/no2/chains_G5_sys copy/efit-live.points
+fit_sys/no2/chains_G5_sys copy/efit-phys_live.points
+fit_sys/no2/chains_G5_sys copy/efit-post_equal_weights.dat
+fit_sys/no2/chains_G5_sys copy/efit-resume.dat
+fit_sys/no2/chains_G5_sys copy/efit-stats.dat
+fit_sys/no2/chains_G5_sys copy/efit-summary.txt
+fit_sys/no2/figs_no2/.ipynb_checkpoints/Figures_G3-checkpoint.ipynb
+fit_sys/no2/figs_no2/G3_cor.png
+fit_sys/no2/figs_no2/G3_histos.png
+fit_sys/no2/figs_no2/G3_orbit.png
+fit_sys/no2/figs_no2/G3_res_RV.png
+fit_sys/no2/figs_no2/G3_res_astro.png
+fit_sys/no2/figs_no2/G3_sys_add_err.png
+fit_sys/no2/figs_no2/G3_sys_cor.png
+fit_sys/no2/figs_no2/G3_sys_histos.png
+fit_sys/no2/figs_no2/G3_sys_orbit.png
+fit_sys/no2/figs_no2/G3_sys_res_RV.png
+fit_sys/no2/figs_no2/G3_sys_res_astro.png
+fit_sys/no2/figs_no2/G4_cor.png
+fit_sys/no2/figs_no2/G4_histos.png
+fit_sys/no2/figs_no2/G4_orbit.png
+fit_sys/no2/figs_no2/G4_res_RV.png
+fit_sys/no2/figs_no2/G4_res_astro.png
+fit_sys/no2/figs_no2/G4_sys_add_err.png
+fit_sys/no2/figs_no2/G4_sys_cor.png
+fit_sys/no2/figs_no2/G4_sys_histos.png
+fit_sys/no2/figs_no2/G4_sys_orbit.png
+fit_sys/no2/figs_no2/G4_sys_res_RV.png
+fit_sys/no2/figs_no2/G4_sys_res_astro.png
+fit_sys/no2/figs_no2/G5_cor.png
+fit_sys/no2/figs_no2/G5_histos.png
+fit_sys/no2/figs_no2/G5_orbit.png
+fit_sys/no2/figs_no2/G5_res_RV.png
+fit_sys/no2/figs_no2/G5_res_astro.png
+fit_sys/no2/figs_no2/G5_sys_add_err.png
+fit_sys/no2/figs_no2/G5_sys_cor.png
+fit_sys/no2/figs_no2/G5_sys_histos.png
+fit_sys/no2/figs_no2/G5_sys_orbit.png
+fit_sys/no2/figs_no2/G5_sys_res_RV.png
+fit_sys/no2/figs_no2/G5_sys_res_astro.png
+fit_sys/plot_proper_motion.ipynb
+fit_sys/plotting_from _A/Figures_G3.ipynb
+fit_sys/plotting_from _A/Figures_G5.ipynb
